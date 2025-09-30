@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Login">
         <activity
+            android:name=".TelaSpinner"
+            android:exported="false" />
+        <activity
             android:name=".TelaRadio"
             android:exported="false" />
         <activity
