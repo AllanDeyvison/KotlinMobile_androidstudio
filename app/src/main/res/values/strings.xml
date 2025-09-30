@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Login</string>
+    <string name="app_title">App de Roupas</string>
+
+    <string name="camisa">Camisa</string>
+    <string name="calca">Calça</string>
+    <string name="sapato">Sapato</string>
+
+    <string name="img_desc">Imagem do item selecionado</string>
+    <string name="qtd_hint">Quantidade</string>
+
+    <string name="btn_calcular">Calcular</string>
+
+    <string name="item_info_placeholder">Item e preço aparecerão aqui</string>
+    <string name="total_placeholder">Total aparecerá aqui</string>
+    <string name="item_info_format">Item: %1$s - Preço: R$ %2$.2f</string>
+    <string name="total_format">Total: R$ %1$.2f</string>
+
 </resources>

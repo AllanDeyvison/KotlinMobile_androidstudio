@@ -5,5 +5,14 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#E25125"
-    tools:context=".TelaSplash" />
+    android:background="#FDFDFD"
+    tools:context=".TelaSplash">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="329dp"
+        android:layout_height="294dp"
+        app:srcCompat="@drawable/splashroupa"
+        tools:layout_editor_absoluteX="41dp"
+        tools:layout_editor_absoluteY="238dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>

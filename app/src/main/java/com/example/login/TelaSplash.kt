@@ -16,7 +16,7 @@ class TelaSplash : AppCompatActivity() {
 
         Handler(Looper.getMainLooper()).postDelayed(
             {
-                val intent = Intent(this, TelaCadastro::class.java)
+                val intent = Intent(this, TelaRadio::class.java)
                 startActivity(intent)
                 finish()
             }, 3000
