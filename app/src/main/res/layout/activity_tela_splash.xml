@@ -5,22 +5,5 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#00BCD4"
-    tools:context=".TelaSplash">
-
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="351dp"
-        android:layout_height="388dp"
-        android:layout_marginStart="30dp"
-        android:layout_marginTop="162dp"
-        android:layout_marginEnd="30dp"
-        android:layout_marginBottom="181dp"
-        android:adjustViewBounds="true"
-        android:scaleType="fitCenter"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/imageeee" />
-</androidx.constraintlayout.widget.ConstraintLayout>
+    android:background="#E25125"
+    tools:context=".TelaSplash" />

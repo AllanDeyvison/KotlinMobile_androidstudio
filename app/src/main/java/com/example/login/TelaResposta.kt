@@ -37,7 +37,6 @@ class TelaResposta : AppCompatActivity() {
                 .setMessage("Nome: $nome\nEmail: $email\nTel: $tel")
                 .setPositiveButton("OK", null)
                 .show()
-
         }
     }
 }
