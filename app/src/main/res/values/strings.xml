@@ -16,4 +16,17 @@
     <string name="item_info_format">Item: %1$s - Preço: R$ %2$.2f</string>
     <string name="total_format">Total: R$ %1$.2f</string>
 
+    <string name="titulo">App de Cálculos (Spinner)</string>
+    <string name="hint_valor1">Valor 1</string>
+    <string name="hint_valor2">Valor 2</string>
+    <string name="resultado_placeholder">Resultado aparecerá aqui</string>
+    <string name="resultado_format">Resultado: %1$.4f</string>
+
+    <string-array name="ops_matematica">
+        <item>Potência (v1^v2)</item>
+        <item>Raiz Quadrada (v1)</item>
+        <item>Hipotenusa (v1, v2)</item>
+        <item> Seno (graus de v1)</item>
+    </string-array>
+
 </resources>
