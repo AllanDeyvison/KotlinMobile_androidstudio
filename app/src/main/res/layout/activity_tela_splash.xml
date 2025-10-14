@@ -10,18 +10,15 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="182dp"
-        android:layout_marginEnd="16dp"
-        android:layout_marginBottom="92dp"
-        android:background="#00673AB7"
-        android:backgroundTint="#673AB7"
+        android:layout_width="335dp"
+        android:layout_height="443dp"
+        android:layout_marginStart="38dp"
+        android:layout_marginTop="144dp"
+        android:layout_marginEnd="38dp"
+        android:layout_marginBottom="144dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0"
-        app:srcCompat="@drawable/splashspinner" />
+        app:srcCompat="@drawable/loja" />
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -28,5 +28,11 @@
         <item>Hipotenusa (v1, v2)</item>
         <item> Seno (graus de v1)</item>
     </string-array>
-
+    <string-array name="produtos">
+        <item>Camisa</item>
+        <item>Calça</item>
+        <item>Sapato</item>
+    </string-array>
+    <string name="preco_unit">Preço: R$ %1$.2f</string>
+    <string name="fechar">Fechar</string>
 </resources>
