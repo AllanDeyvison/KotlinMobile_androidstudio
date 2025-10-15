@@ -12,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Login">
         <activity
+            android:name=".TelaViagens"
+            android:exported="false" />
+        <activity
+            android:name=".ListView2"
+            android:exported="false" />
+        <activity
             android:name=".TelaLista"
             android:exported="false" />
         <activity
